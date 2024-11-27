@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@grammyjs/conversations": "^1.2.0",
+    "@grammyjs/parse-mode": "^1.10.0",
+    "@metaplex-foundation/mpl-token-metadata": "^3.3.0",
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.95.5",
+    "axios": "^1.7.7",
+    "bs58": "^6.0.0",
+    "cross-fetch": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "grammy": "^1.32.0",
+    "node-fetch": "^3.3.2"
+  }
+}
